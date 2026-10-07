@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+slowapi
+pydantic
+pytest
+httpx
+black
+flake8
